@@ -1,0 +1,8 @@
+# Ignorar todos los archivos .docx
+*.docx
+*.temp
+
+# Ignorar archivos específicos
+reporteP2.pdf
+reporteP2sinPortada.pdf
+reporteP2sinPortada.docx
